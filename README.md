@@ -2,10 +2,6 @@
 
 <h3 align="center">I'm Ilse Yazbeth Castro Páez — a passionate AI engineering student from Mexico 🇲🇽</h3>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwZzBhZTQ4YmkzNWsxcHN1dzZ5dTM1c3pnZjA4b290dGpoMXVidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nfVrDoYuAD2fe/giphy.gif" alt="Totoro waving" width="220" />
-</p>
-
 ---
 
 ### 🌟 About Me
