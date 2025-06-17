@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">I'm Ilse Yazbeth Castro Páez — a passionate AI engineering student from Mexico 🇲🇽</h3>
+<h3 align="center">I'm Ilse Yazbeth Castro Paez — a passionate AI engineering student from Mexico 🇲🇽</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/itziar-segura-065478346/" target="_blank">
+  <a href="https://www.linkedin.com/in/ilse-yazbeth-castro-paez-807b36361/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/30644658/itziar-segura" target="_blank">
